@@ -17,6 +17,15 @@
         android:theme="@style/Theme.FigmaDeneme"
         tools:targetApi="31">
         <activity
+            android:name=".RemovedAppsManager"
+            android:exported="false" />
+        <activity
+            android:name=".SadeceSilinenler"
+            android:exported="false" />
+        <activity
+            android:name=".SilinmisUygulamalar"
+            android:exported="false" />
+        <activity
             android:name=".SilinenUygulamalar"
             android:exported="false" />
         <activity

@@ -34,13 +34,28 @@
         android:textColor="#4CAF50"
         android:textSize="17dp"
         android:textStyle="bold"
-
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.772" />
+
+
+    <TextView
+        android:layout_width="380dp"
+        android:layout_height="68dp"
+        android:gravity="center"
+        android:text="Ayrıca uygulama yüklendiği tarihten itibaren telefonunuzdan kullanıcı tarafından silinen uygulamaların kayıtlarını tutar."
+        android:textColor="#F40303"
+        android:textSize="14dp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.483"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.877" />
 
     <androidx.constraintlayout.widget.ConstraintLayout
         android:id="@+id/linearLayout"
@@ -50,17 +65,16 @@
         android:orientation="vertical"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.542"
+        app:layout_constraintHorizontal_bias="0.556"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.87">
+        app:layout_constraintVertical_bias="0.941">
+
 
         <TextView
             android:id="@+id/textViewBasla"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginTop="5dp"
-            android:layout_marginBottom="5dp"
             android:fontFamily="@font/sarabun_bold"
             android:text="Hadi Başlayalım"
             android:textColor="#FFFFFF"
@@ -69,10 +83,7 @@
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent" />
-
-
     </androidx.constraintlayout.widget.ConstraintLayout>
-
 
     <ImageView
         android:id="@+id/imageView9"

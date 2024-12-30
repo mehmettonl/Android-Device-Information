@@ -140,7 +140,6 @@ class BilgiEkrani : AppCompatActivity() {
         }
 
 
-
                     binding.imageView7.setOnClickListener({
                     val intent = Intent(this@BilgiEkrani, Uygulamalar::class.java)
                     startActivity(intent)
@@ -173,7 +172,7 @@ class BilgiEkrani : AppCompatActivity() {
                     })
 
                 }
-    }
+}
 
 
 
