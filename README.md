@@ -95,6 +95,6 @@ Installation
   
   git clone https://github.com/mehmettonl/Android-Device-Information.git
  	
-  2.	Open Android Studio and import the project.
+  	2.	Open Android Studio and import the project.
 	3.	Wait for the project to build, then run it on your device.
 	4.	The app will automatically display the hardware information of your device.
