@@ -1,5 +1,7 @@
 Android Device Information
 
+											<<TÜRKÇE>>
+
 Bu uygulama, Android cihazınızın donanım bilgilerini, yüklü uygulamaları, silinen uygulamaları ve sensör bilgilerini görüntülemeye yarayan bir araçtır. Kullanıcılar, cihazlarının RAM, CPU, depolama, batarya durumu gibi bilgilerini kolayca öğrenebilir ve yüklü uygulamalar ile daha önce silinen uygulamaları inceleyebilirler.
 
 Özellikler
@@ -48,6 +50,9 @@ Kurulum
 	4.	Uygulama, cihazınızdaki donanım bilgilerini otomatik olarak gösterir.
 
 
+
+
+	 									<<ENGLISH>>
 
 
 This app is a tool that allows users to view various hardware information, installed apps, uninstalled apps, and sensor data of their Android devices. Users can easily learn about their device’s RAM, CPU, storage, battery status, and more. It also provides details on installed and previously uninstalled applications.
